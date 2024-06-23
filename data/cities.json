@@ -1,0 +1,58 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "06af",
+      "cityName": "Tirora",
+      "emoji": "🇮🇳",
+      "date": "2024-06-23T03:32:29.542Z",
+      "position": {
+        "lat": "21.327654738149374",
+        "lng": "79.95849609375001"
+      }
+    },
+    {
+      "id": "a0ba",
+      "cityName": "Gimecourt",
+      "emoji": "🇫🇷",
+      "date": "2024-06-23T04:31:20.255Z",
+      "position": {
+        "lat": "48.84589117967781",
+        "lng": "5.361328125"
+      }
+    },
+    {
+      "id": "fdcd",
+      "cityName": "Dedovichi",
+      "emoji": "🇷🇺",
+      "date": "2024-06-23T04:37:44.829Z",
+      "position": {
+        "lat": "57.35498740553593",
+        "lng": "29.487304687500004"
+      }
+    }
+  ]
+}
